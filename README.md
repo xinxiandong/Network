@@ -11,3 +11,6 @@ Network
 <br>
 在知乎上，最值得关注的「产品经理」系列问答有哪些？http://www.zhihu.com/question/19804611
 <br>
+<br>
+###技术相关：
+Echart百度图表：http://echarts.baidu.com/
