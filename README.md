@@ -14,3 +14,5 @@ Network
 <br>
 ###技术相关：
 Echart百度图表：http://echarts.baidu.com/
+<br>
+cheat sheet各类语言的备忘单:http://www.cheatography.com/explore/popular/
