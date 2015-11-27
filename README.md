@@ -1,7 +1,7 @@
 网站备忘录
 =======
 
-##Frequently used sites
+##常用网站记录及备份区
 ###产品相关：
 新手产品经理都混哪里：http://blogread.cn/it/article/6926?f=wb
 <br>
