@@ -1,4 +1,4 @@
-Network
+网站备忘录
 =======
 
 ##Frequently used sites
@@ -16,3 +16,7 @@ Network
 Echart百度图表：http://echarts.baidu.com/
 <br>
 cheat sheet各类语言的备忘单:http://www.cheatography.com/explore/popular/
+<br>
+###UI/UX
+UI中国旗下翻译团队（目前已停更）http://ifec.ui.cn/
+UIQ设计问答社区http://uiq.me/
