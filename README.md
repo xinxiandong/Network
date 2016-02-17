@@ -25,3 +25,5 @@ UIQ设计问答社区http://uiq.me/
 <br>MAC & iphone 效果图（上传图片生成模板）http://magicmockups.com/
 ###互联网新闻类网站
 PingWest | 品玩 http://www.pingwest.com/
+###发现新产品
+36Kr的Next http://next.36kr.com/posts
