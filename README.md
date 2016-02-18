@@ -11,7 +11,7 @@
 <br>
 在知乎上，最值得关注的「产品经理」系列问答有哪些？http://www.zhihu.com/question/19804611
 #####产品博客
-纯银V 简书博客  http://www.jianshu.com/users/c22ccc510fb9/latest_articles
+<br>纯银V 简书博客  http://www.jianshu.com/users/c22ccc510fb9/latest_articles
 =======
 ###技术相关：
 Echart百度图表：http://echarts.baidu.com/
@@ -22,12 +22,11 @@ cheat sheet各类语言的备忘单:http://www.cheatography.com/explore/popular/
 UI中国旗下翻译团队IFEC（目前已停更）http://ifec.ui.cn/  <br>
 UIQ设计问答社区http://uiq.me/
 ###实用工具
-手机PPT遥控器 http://ppt.baidu.com/
+手机PPT遥控器 http://ppt.baidu.com/<br>
 MAC & iphone 效果图（上传图片生成模板）http://magicmockups.com/
 =======
 ###互联网新闻类网站
-PingWest | 品玩 http://www.pingwest.com/
+PingWest | 品玩 http://www.pingwest.com/<br>
 =======
 ###发现新产品
 36Kr的Next http://next.36kr.com/posts
-=======
