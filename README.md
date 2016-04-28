@@ -27,11 +27,11 @@ UIQ设计问答社区http://uiq.me/
 MAC & iphone 效果图（上传图片生成模板）http://magicmockups.com/
 <br>
 =======
-###互联网新闻类网站
+###互联网新闻类网站<br>
 PingWest | 品玩 http://www.pingwest.com/<br>
 =======
-###发现新产品
+###发现新产品<br>
 36Kr的Next http://next.36kr.com/posts
 =====
-###Web 前端相关
+###Web 前端相关<br>
 https://github.com/showcases/web-games 前端游戏相关
