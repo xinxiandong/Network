@@ -29,13 +29,13 @@ MAC & iphone 效果图（上传图片生成模板）http://magicmockups.com/
 ===
 ###互联网新闻类网站
 PingWest | 品玩 http://www.pingwest.com/ <br>
-=======
+===
 ###发现新产品
 36Kr的Next http://next.36kr.com/posts <br>
-=====
+===
 ###Web 前端相关
-https://github.com/showcases/web-games 前端游戏相关 <br>
-=====
+前端游戏相关 https://github.com/showcases/web-games <br>
+===
 ###非常酷的网站(做一些有意思且非常酷的事情) 
-http://mikkelbang.com/ 旋转地球<br>
-http://www.uisdc.com/2014-the-coolest-websites 优设推荐炫酷的网站<br>
+旋转地球 http://mikkelbang.com/ <br>
+优设推荐炫酷的网站 http://www.uisdc.com/2014-the-coolest-websites <br>
