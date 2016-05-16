@@ -21,7 +21,10 @@ cheat sheet各类语言的备忘单:http://www.cheatography.com/explore/popular/
 <br>
 ###UI/UX
 UI中国旗下翻译团队IFEC（目前已停更）http://ifec.ui.cn/  <br>
-UIQ设计问答社区http://uiq.me/
+UIQ设计问答社区 http://uiq.me/
+设计师网站导航 http://so.uigreat.com/
+日本网站列表 http://bm.straightline.jp/
+
 ###实用工具
 手机PPT遥控器 http://ppt.baidu.com/<br>
 MAC & iphone 效果图（上传图片生成模板）http://magicmockups.com/
