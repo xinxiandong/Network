@@ -45,3 +45,7 @@ MAC & iphone 效果图（上传图片生成模板）http://magicmockups.com/
 在线生成非常酷的线条图 http://www.zefrank.com/scribbler/scribblertoo/ <br>
 地球辐射网站（类似黑客攻击）http://map.norsecorp.com <br>
 日本的炫酷网站 https://www.cyberagent.co.jp/technicalcreator/ <br>
+
+===
+###字体相关
+中文手写字体 http://www.uisdc.com/republic-of-china-fonts-2
