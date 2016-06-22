@@ -10,6 +10,8 @@
 有哪些你觉得能借助学习以自我提升的网站推荐？http://www.zhihu.com/question/26684822
 <br>
 在知乎上，最值得关注的「产品经理」系列问答有哪些？http://www.zhihu.com/question/19804611
+<br>
+腾讯大讲堂http://djt.qq.com/home/index/
 ####产品博客
 纯银V 简书博客  http://www.jianshu.com/users/c22ccc510fb9/latest_articles 
 <br>
