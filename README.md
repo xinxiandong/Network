@@ -15,7 +15,7 @@
 <br>
 腾讯大讲堂 &nbsp;&nbsp;&nbsp;http://djt.qq.com/home/index/
 ####产品博客
-纯银V 简书博客  http://www.jianshu.com/users/c22ccc510fb9/latest_articles 
+纯银V 简书博客  http://www.jianshu.com/users/c22ccc510fb9/latest_articles <br>
 国外博客列表 https://github.com/cqcn1991/Tech-Insight
 <br>
 ####数据相关
