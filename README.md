@@ -16,7 +16,8 @@
 腾讯大讲堂 &nbsp;&nbsp;&nbsp;http://djt.qq.com/home/index/
 ####产品博客
 纯银V 简书博客  http://www.jianshu.com/users/c22ccc510fb9/latest_articles <br>
-国外博客列表 https://github.com/cqcn1991/Tech-Insight
+国外博客列表 https://github.com/cqcn1991/Tech-Insight <br>
+ProductHunt的汇总版，作者子柯；http://productchaseapp.herokuapp.com/
 <br>
 ####数据相关
 艾瑞咨询 http://www.iresearch.com.cn/report/reportlist.aspx
