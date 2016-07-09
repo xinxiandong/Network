@@ -29,6 +29,7 @@ Echart百度图表：http://echarts.baidu.com/
 cheat sheet各类语言的备忘单:http://www.cheatography.com/explore/popular/
 <br>
 ###UI/UX
+腾讯CDC设计订阅 http://idesign.qq.com/#!index/feed <br>
 UI中国旗下翻译团队IFEC（目前已停更）http://ifec.ui.cn/  <br>
 UIQ设计问答社区 http://uiq.me/ <br>
 设计师网站导航 http://so.uigreat.com/ <br>
