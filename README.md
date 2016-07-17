@@ -21,7 +21,9 @@ ProductHunt的汇总版，作者子柯；http://productchaseapp.herokuapp.com/
 <br>
 ####数据相关
 艾瑞咨询 http://www.iresearch.com.cn/report/reportlist.aspx
-
+###设计规范
+Google Material Design https://material.google.com/
+中文版 Materail Design 地址http://wiki.jikexueyuan.com/project/material-design/
 ==
 ###技术相关：
 Echart百度图表：http://echarts.baidu.com/
