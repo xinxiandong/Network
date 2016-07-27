@@ -28,7 +28,15 @@ ASO100－“中国最专业的App Store数据平台”: http://aso100.com/
 ASO114“中国唯一覆盖iOS、Android的APP数据平台”:http://aso114.com/
 <br>
 TalkingDate移动观象平台－“移动互联网大数据平台”：https://www.talkingdata.com/index
+<br>
+AppAnnie:https://www.appannie.com/apps/ios/top-chart/
+<br>
+苹果官网排名：http://www.apple.com/cn/itunes/charts/
 
+#####-PC端数据查询：
+百度指数：http://index.baidu.com/
+199it：http://www.199it.com/
+199it大数据导航：http://hao.199it.com/
 艾瑞咨询 http://www.iresearch.com.cn/report/reportlist.aspx
 ###设计规范
 Google Material Design https://material.google.com/ <br>
